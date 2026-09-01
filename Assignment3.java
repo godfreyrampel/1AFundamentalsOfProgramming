@@ -1,4 +1,4 @@
-public class Assignment {
+public class Assignment3 {
     public static void main(String[] args) {
 
         // Store the first name 
