@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class labquiz1 {
-    public static void main(String[] args){
+    public static void main(   String[] args){
 
         BufferedReader dataIn = new BufferedReader(new InputStreamReader(System.in));
         try {
