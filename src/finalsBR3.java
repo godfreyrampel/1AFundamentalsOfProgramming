@@ -1,5 +1,5 @@
 import java.io.*;
-public class finalsAssignment3 {
+public class finalsBR3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         double balance = 20000.00;

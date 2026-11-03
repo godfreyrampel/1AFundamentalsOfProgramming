@@ -1,5 +1,5 @@
 import java.io.*;
-public class finalAssignment1 {
+public class finalsBR1 {
         public static void main(String[] args) throws IOException {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             int highest = 0, lowest = 0;
@@ -19,4 +19,5 @@ public class finalAssignment1 {
             System.out.println("Lowest: " + lowest);
         }
     }
+
 
